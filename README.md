@@ -1,2 +1,2 @@
-# Atividades
-Atividades da matéria "Aplicações web", ministrada pelo prof. Daniel Solza Barros
+# Atividade
+Atividade 01 da matéria "Aplicações web", ministrada pelo prof. Daniel Barros
